@@ -19,4 +19,4 @@ Airbnb dataset sourced from Inside Airbnb.
 
 ## Project Structure
 - notebooks/ → analysis notebook
-- README.md → project overvie
+- README.md → project overview
