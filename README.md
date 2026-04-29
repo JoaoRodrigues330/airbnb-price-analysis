@@ -13,3 +13,10 @@ Analyze Airbnb listing prices and identify patterns related to location, room ty
 - Python
 - Pandas
 - Matplotlib
+
+## Dataset
+Airbnb dataset sourced from Inside Airbnb.
+
+## Project Structure
+- notebooks/ → analysis notebook
+- README.md → project overvie
